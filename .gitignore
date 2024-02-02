@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 build/
 dist/
 setup.py
 nhl_linemate_scraper.egg-info/
+=======
+build
+dist
+setup.py
+nhl_linemate_scraper.egg-info
+>>>>>>> 08ea553f2faf36ad118bbca94471ce1363305b0d

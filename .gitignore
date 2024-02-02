@@ -1,0 +1,4 @@
+build/
+dist/
+setup.py
+nhl_linemate_scraper.egg-info/
